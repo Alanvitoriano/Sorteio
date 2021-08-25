@@ -1,7 +1,7 @@
 # sorteio
+um programa simples onde o proposito é apenas gerar numeros randomicos e usando fotos para melhor apresentação do numeros 
 
-A new Flutter project.
-
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
